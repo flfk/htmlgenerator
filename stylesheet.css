@@ -1,0 +1,138 @@
+/** {border:1px solid red;}*/
+
+body {
+	margin: 0;
+}
+
+h1 {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	/*font-weight: lighter;*/
+	font-size: 42px;
+	margin: 0;
+}
+
+h4 {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: italic;
+	/*font-weight: lighter;*/
+	font-size: 20px;
+	margin: 0;
+}
+
+h2 {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	/*font-weight: lighter;*/
+	font-size: 32px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+h3 {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	/*font-weight: lighter;*/
+	font-size: 25px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+p {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: lighter;
+	font-size: 20px;
+	/*text-transform: uppercase;*/
+	margin-top: 0;
+}
+
+.intro {
+	background-color: #DC2E2E;
+	text-align: center;
+	display: inline-block;
+	height: 200px;
+	width: 100vw;
+}
+
+.introspacer {
+	height: 24px;
+	margin: 0;
+}
+
+.textboxA {
+	background-color: #EF716B;
+	text-align: center;
+	display: inline-block;
+	height: 100vh;
+	width: 100vw;
+}
+
+.textboxB {
+	background-color: #ED524B;
+	text-align: center;
+	display: inline-block;
+	height: 100vh;
+	width: 100vw;
+}
+
+.textboxC {
+	background-color: #DC3E3E;
+	text-align: center;
+	display: inline-block;
+	height: 100vh;
+	width: 100vw;
+}
+
+.headerspacertop {
+	height: 1vh;
+	width: 100vw;
+	display: inline-block;
+}
+
+.topheader {
+	height: 11vh;
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+.headerspacerbottom {
+	height: 3vh;
+	width: 100vw;
+	display: inline-block;
+}
+
+.thickline {
+	background-color: white;
+	height: 3px;
+	width: 50px;
+	display: inline-block;
+}
+
+.content {
+	height: 55vh;
+	width: 100vw;
+	display: inline-block;
+}
+
+.screenshot {
+	height: 55vh;
+	min-height: 300px;
+}
+
+.captionbox {
+	height: 30vh;
+	width: 100vw;
+	display: inline-block;
+}
+
+.thinline {
+	background-color: white;
+	height: 1px;
+	width: 250px;
+	display: inline-block;
+	margin: 20px;
+}
